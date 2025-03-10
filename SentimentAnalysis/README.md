@@ -48,11 +48,6 @@ Sample predictions
 Key Results
 
 Best Model: Logistic Regression (85.22% accuracy)
-![Screenshot 2025-03-10 123536](https://github.com/user-attachments/assets/c8de255e-c44f-4054-8336-5e3f450f619e)
-![Screenshot 2025-03-10 123610](https://github.com/user-attachments/assets/4428dfc7-0d68-4282-9386-d5386729f7fd)
-![Screenshot 2025-03-10 123631](https://github.com/user-attachments/assets/4015452a-8928-429b-a6c5-764a31f94603)
-![Screenshot 2025-03-10 123648](https://github.com/user-attachments/assets/7d363a8e-00f5-4be8-a9ce-4e3bcfa1a5e1)
-
 
 Performance by Class:
 
