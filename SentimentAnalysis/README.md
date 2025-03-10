@@ -1,1 +1,1 @@
-This directory conatins files related to SentimentAnalysis
+This directory contains files related to SentimentAnalysis
