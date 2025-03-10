@@ -96,7 +96,7 @@ Geographic location (Latitude/Longitude) plays a significant role in housing pri
 The Random Forest model provides the best prediction accuracy with an R² of 0.81
 The model performs better for lower and mid-range priced homes than for high-end properties
 Some price censoring exists at the $500,000 level (5.0), affecting model performance
-![Screenshot 2025-03-10 155049](https://github.com/user-attachments/assets/75e4373b-fd04-48b6-bcc8-5bc3ac099541)
+
 
 Future Work
 
