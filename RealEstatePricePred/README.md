@@ -1,5 +1,3 @@
-This directory contains files from a Real estate price prediction project
-
 California Housing Price Prediction
 Project Overview
 This project analyzes the California Housing dataset to predict housing prices based on various features. Using several machine learning algorithms, I explored the relationships between housing attributes and prices to develop an accurate prediction model.
