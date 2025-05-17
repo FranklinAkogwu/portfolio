@@ -51,8 +51,9 @@ The notebook covers:
 - SVM and Random Forest classifiers generally perform best on this dataset.  
 - The project demonstrates practical steps in handling real-world healthcare data with machine learning.
 
-- ## Summary of Findings for BreastCancerAnalysis
 ---
+
+## Summary of Findings for BreastCancerAnalysis
 
 ### **Breast Cancer Analysis: Project Findings**
 
