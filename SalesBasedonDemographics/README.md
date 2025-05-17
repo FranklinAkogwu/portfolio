@@ -31,7 +31,6 @@ This project presents an exploratory data analysis (EDA) and visualization of sa
 The dataset used in this analysis is embedded within the notebook or referenced therein. It contains sales figures along with demographic attributes of customers. Please refer to the notebook for details on data sources and preprocessing steps.
 
 ## Summary
-Summary of Findings
 This project analyzes sales data with a focus on how customer demographics-such as age, gender, and location-influence purchasing behavior and sales performance. The analysis leverages data visualization and statistical techniques to extract actionable business insights.
 
 Key Insights:
